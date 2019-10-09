@@ -1,2 +1,2 @@
 # User_Inputs_Python
- User Inputs in Python
+Get User Inputs in Python
